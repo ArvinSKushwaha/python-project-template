@@ -1,14 +1,14 @@
 from distutils.core import setup
 
 setup(
-    name='physissist',
-    version='0.0',
-    description='Assisting Physics students with Problems and Lab Reports',
+    name='<name>',
+    version='0.0.0',
+    description='<description>',
     author='Arvin Kushwaha',
     author_email='arvin.singh.kushwaha@gmail.com',
-    url='https://github.com/ArvinSKushwaha/Physissist',
-    packages=['physissist'],
+    url='https://github.com/ArvinSKushwaha/<name>',
+    packages=['<name>'],
     license='MIT',
-    keywords=['physics','lab report', 'homework'],
-    long_description=''
+    keywords=['<keywords...>'],
+    long_description='<long-desc>'
 )
