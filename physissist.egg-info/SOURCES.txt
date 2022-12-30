@@ -1,8 +1,0 @@
-README.md
-setup.py
-physissist/__init__.py
-physissist.egg-info/PKG-INFO
-physissist.egg-info/SOURCES.txt
-physissist.egg-info/dependency_links.txt
-physissist.egg-info/top_level.txt
-test/test_symbols_constants.py

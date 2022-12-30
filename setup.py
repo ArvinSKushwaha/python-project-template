@@ -8,7 +8,8 @@ setup(
     author_email='arvin.singh.kushwaha@gmail.com',
     url='https://github.com/ArvinSKushwaha/<name>',
     packages=['<name>'],
+    package_dir={'': 'src'},
     license='MIT',
-    keywords=['<keywords...>'],
+    keywords='<keywords...>',
     long_description='<long-desc>'
 )
